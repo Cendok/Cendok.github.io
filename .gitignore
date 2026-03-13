@@ -1,0 +1,13 @@
+_site/
+.sass-cache/
+.jekyll-metadata
+.vscode
+.DS_Store
+.editorconfig
+.jekyll-cache
+.obsidian
+.ruby-version
+*~
+
+# add a JEKYLL_GITHUB_TOKEN for jekyll-github-metadata
+.env
