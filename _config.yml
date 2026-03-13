@@ -1,16 +1,16 @@
 # Site settings
-title:          Yester Vault
-description:    "迷うことを迷わない"
-url:            "https://Yestercafe.github.io"
-timezone:       Asia/Shanghai
+title:          Cendok
+description:    "💪No exploration, no gain."
+url:            "https://Cendok.github.io/Yes-Blog/"
+timezone:       Asia/Anhui
 global_flags:
   enable_homepage_desc: true
 
 # Author
 author:
-  name:         Ivan Chien
-  url:          https://github.com/Yestercafe
-  email:        qyc027@gmail.com
+  name:         Cendok
+  url:          https://github.com/Cendok
+  email:        Syi19691@gmail.com
 
 # Build settings
 markdown:       kramdown
@@ -50,7 +50,7 @@ disqus:         jekyll-tale
 components:
   busuanzi:
     enabled: true
-    start_date: 2023-07-16
+    start_date: 2026-03-13
 
 # GitHub metadata (about page)
 repos:
