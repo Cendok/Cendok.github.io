@@ -1,7 +1,7 @@
 # Site settings
 title:          Cendok
 description:    "💪No exploration, no gain."
-url:            "https://Cendok.github.io/Yes-Blog/"
+url:            "https://Cendok.github.io/"
 timezone:       Asia/Anhui
 global_flags:
   enable_homepage_desc: true
