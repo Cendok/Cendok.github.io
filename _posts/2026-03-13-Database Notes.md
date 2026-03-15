@@ -5,7 +5,7 @@ description: 数据库笔记
 header-img: images/posts/my-university/IMG_20190418_134304.jpeg
 categories: Database
 tags: [Database]
-archived：true
+archived: true
 ---
 
 
