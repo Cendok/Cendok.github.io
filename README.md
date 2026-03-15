@@ -1,1 +1,1 @@
-💪No exploration, no gain.
+💪Exploration yields rewards.
