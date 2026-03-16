@@ -73,7 +73,6 @@ Type，模板由0和1构成，识别方法类似System。
 
 ![image](/images/posts/2026-3-16-MRS-BaseLine模板匹配/ACC.png)
 
-![image-20240419223607768](C:\Users\曹鹏飞\AppData\Roaming\Typora\typora-user-images\image-20240419223607768.png)
 
 ACC1为System的精确值、ACC2为Tonic的精确值、ACC3为Pattern的精确值、ACC4为Tonic和Pattern的精确值的均值、ACC5为Type的精确值、ACC6为Tonic、Pattern和Type精确值的均值
 
