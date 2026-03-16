@@ -12,8 +12,6 @@ tags: [MRS]
 
 ![image](/images/posts/2026-3-16-MRS-ResNet单任务/Resnet.png)
 
-![image-20240310104241970](C:\Users\曹鹏飞\AppData\Roaming\Typora\typora-user-images\image-20240310104241970.png)
-
 
 
 - 1）直接使用两个单任务模型分别预测主音和模式；
@@ -32,9 +30,7 @@ tags: [MRS]
 
 ### ResNet18单任务网络架构
 
-![image](/images/posts/2026-3-16-MRS-ResNet单任务/ResNet Single task.png)
-
-![image-20240420160818901](C:\Users\曹鹏飞\AppData\Roaming\Typora\typora-user-images\image-20240420160818901.png)
+![image](/images/posts/2026-3-16-MRS-ResNet单任务/ResNet-Single-task.png)
 
 
 
