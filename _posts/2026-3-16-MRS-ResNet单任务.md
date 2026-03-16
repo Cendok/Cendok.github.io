@@ -1,7 +1,7 @@
 ---
 layout: post
-title: MRS残差网络
-description: 残差网络ResNet
+title: MRS单任务残差网络
+description: 单任务残差网络ResNet
 categories: MRS
 tags: [MRS]
 ---
