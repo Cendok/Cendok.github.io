@@ -8,7 +8,7 @@ tags: [MRS]
 
 ## ResNet
 
-[ResNet从理论到实践（一）|ResNet原理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/378037292)
+[ResNet从理论到实践（一）ResNet原理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/378037292)
 
 ![image](/images/posts/2026-3-16-MRS-ResNet单任务/Resnet.png)
 
