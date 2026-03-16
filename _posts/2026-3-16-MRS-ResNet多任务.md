@@ -10,8 +10,6 @@ tags: [MRS]
 
 ![image](/images/posts/2026-3-16-MRS-ResNet多任务/ResNet-Multi-task.png)
 
-![image-20240420164216259](C:\Users\曹鹏飞\AppData\Roaming\Typora\typora-user-images\image-20240420164216259.png)
-
 
 
 1. **输入层**：
