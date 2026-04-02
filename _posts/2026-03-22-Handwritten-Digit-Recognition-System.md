@@ -215,9 +215,9 @@ http://127.0.0.1:1235/
 
 选择number文件夹下的图片识别数字大小
 
-![display1](/images/posts/Handwritten-Digit-Recognition-System/display1.png)
+![display1](images/posts/Handwritten-Digit-Recognition-System/display1.png)
 
-![display2](/images/posts/Handwritten-Digit-Recognition-System/display2.png)
+![display2](images/posts/Handwritten-Digit-Recognition-System/display2.png)
 
 
 
@@ -225,6 +225,6 @@ http://127.0.0.1:1235/
 
 ### 移动端
 
-![display1-mobile](/images/posts/Handwritten-Digit-Recognition-System/display1-mobile.jpg)
+![display1-mobile](images/posts/Handwritten-Digit-Recognition-System/display1-mobile.jpg)
 
-![display2-mobile](/images/posts/Handwritten-Digit-Recognition-System/display2-mobile.jpg)
+![display2-mobile](images/posts/Handwritten-Digit-Recognition-System/display2-mobile.jpg)
