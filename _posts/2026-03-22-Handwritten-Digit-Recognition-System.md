@@ -228,3 +228,5 @@ http://127.0.0.1:1235/
 ![display1-mobile](/images/posts/2026-03-22-Handwritten-Digit-Recognition-System/display1-mobile.jpg)
 
 ![display2-mobile](/images/posts/2026-03-22-Handwritten-Digit-Recognition-System/display2-mobile.jpg)
+
+>这样就实现了拍摄数字，识别数字大小的功能
