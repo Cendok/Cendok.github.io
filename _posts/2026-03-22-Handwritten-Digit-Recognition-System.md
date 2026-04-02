@@ -215,7 +215,7 @@ http://127.0.0.1:1235/
 
 选择number文件夹下的图片识别数字大小
 
-![display1](E:\starta\Handwritten-Digit-Recognition-System\display1.png)
+![display1](/images/Handwritten-Digit-Recognition-System/display1.png)
 
 ![display2](E:\starta\Handwritten-Digit-Recognition-System\display2.png)
 
