@@ -2,8 +2,8 @@
 layout: post
 title: Pandas Notes
 description: 一个开源的python类库
-categories: Pandas
-tags: [Pandas]
+categories: Notes
+tags: [Notes]
 ---
 
 # Pandas数据分析
