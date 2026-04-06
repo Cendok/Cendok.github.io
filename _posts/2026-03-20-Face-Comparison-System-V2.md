@@ -103,7 +103,7 @@ Running on http://0.0.0.0:1235/ (Press CTRL+C to quit)
 127.0.0.1 - - [21/Mar/2026 19:57:33] "GET /static/css/slick.css HTTP/1.1" 404 -
 ```
 
-![显示二进制网页](E:\starta\Face-Comparison-System-V2\显示二进制网页.png)
+![显示二进制网页](/images/显示二进制网页.png)
 
 
 
@@ -320,8 +320,8 @@ http://127.0.0.1:1235/
 
 ## 界面展示
 
-![display1](E:\starta\Face-Comparison-System-V2\display1.png)
+![display1](/images/display1.png)
 
-![display2](E:\starta\Face-Comparison-System-V2\display2.png)
+![display2](/images/display2.png)
 
 
