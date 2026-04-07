@@ -1,3 +1,11 @@
+---
+layout: post
+title: Codeshell Notes
+description: CodeShell下载-部署-使用教程
+categories: Notes
+tags: [Notes]
+---
+
 # CodeShell下载-部署-使用教程
 
 [codeShell本地电脑搭建模型及实验vscode插件 - 简书 (jianshu.com)](https://www.jianshu.com/p/887e65d11d6b)
@@ -29,7 +37,7 @@ VScode上直接安装插件
 
 或者通过以下步骤进行添加插件到VScode
 
-![image-20240306215901923](C:\Users\曹鹏飞\AppData\Roaming\Typora\typora-user-images\image-20240306215901923.png)
+![image-20240306215901923](/images/posts/2024-03-06-CodeShell/image-20240306215901923.png)
 
 
 
@@ -41,9 +49,9 @@ VScode上直接安装插件
 
 把这个文档**codeshell-chat-q4_0.gguf**拖进以下路径中，再运行命令即可：
 
-![image-20240306224141997](C:\Users\曹鹏飞\AppData\Roaming\Typora\typora-user-images\image-20240306224141997.png)
+![image-20240306224141997](/images/posts/2024-03-06-CodeShell/image-20240306224141997.png)
 
-![image-20240306224113782](C:\Users\曹鹏飞\AppData\Roaming\Typora\typora-user-images\image-20240306224113782.png)
+![image-20240306224113782](/images/posts/2024-03-06-CodeShell/image-20240306224113782.png)
 
 
 
@@ -51,11 +59,11 @@ VScode上直接安装插件
 @ext:WisdomShell.codeshell-vscode
 ```
 
-![image-20240306222821655](C:\Users\曹鹏飞\AppData\Roaming\Typora\typora-user-images\image-20240306222821655.png)
+![image-20240306222821655](/images/posts/2024-03-06-CodeShell/image-20240306222821655.png)
 
 
 
-![image-20240308141002390](C:\Users\曹鹏飞\AppData\Roaming\Typora\typora-user-images\image-20240308141002390.png)
+![image-20240308141002390](/images/posts/2024-03-06-CodeShell/image-20240308141002390.png)
 
 
 
@@ -101,13 +109,13 @@ E:\CodeShell\llama_cpp_for_codeshell-master
 
 显示这个状态，远程服务器的端口`8080`就成功连接本地计算机的端口
 
-![image-20240309211910721](C:\Users\曹鹏飞\AppData\Roaming\Typora\typora-user-images\image-20240309211910721.png)
+![image-20240309211910721](/images/posts/2024-03-06-CodeShell/image-20240309211910721.png)
 
 
 
 否则显示这个界面
 
-![image-20240309212029220](C:\Users\曹鹏飞\AppData\Roaming\Typora\typora-user-images\image-20240309212029220.png)
+![image-20240309212029220](/images/posts/2024-03-06-CodeShell/image-20240309212029220.png)
 
 
 
@@ -117,7 +125,7 @@ E:\CodeShell\llama_cpp_for_codeshell-master
 
 点击这个连接可以进入可视化对话界面
 
-![image-20240309212200626](C:\Users\曹鹏飞\AppData\Roaming\Typora\typora-user-images\image-20240309212200626.png)
+![image-20240309212200626](/images/posts/2024-03-06-CodeShell/image-20240309212200626.png)
 
 
 
