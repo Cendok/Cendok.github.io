@@ -45,26 +45,11 @@ pip install numpy==1.21.0
 | Jinja2             | 2.11.3    |
 | MarkupSafe         | 2.0.1     |
 | Werkzeug           | 1.0.1     |
-| certifi            | 2026.2.25 |
-| charset-normalizer | 3.4.6     |
-| click              | 8.1.8     |
-| colorama           | 0.4.6     |
 | facenet-pytorch    | 2.5.2     |
-| idna               | 3.11      |
-| importlib-metadata | 8.7.1     |
 | itsdangerous       | 1.1.0     |
 | numpy              | 1.21.0    |
 | opencv-python      | 4.6.0.66  |
-| pillow             | 11.3.0    |
-| pip                | 23.2.1    |
-| requests           | 2.32.5    |
-| setuptools         | 68.2.0    |
 | torch              | 1.12.1    |
-| torchvision        | 0.13.1    |
-| typing-extensions  | 4.15.0    |
-| urllib3            | 2.6.3     |
-| wheel              | 0.41.2    |
-| zipp               | 3.23.0    |
 
 
 
