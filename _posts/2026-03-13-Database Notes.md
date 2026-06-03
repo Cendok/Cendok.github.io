@@ -107,11 +107,15 @@ ACID
 
 ```sql
 SELECT # COUNT(), SUM(), AVG(), MAX(), MIN()
+#最终实现功能
 FROM # JOIN ON, LEFT JOIN ON, RIGHT JOIN ON
+#数据源，操作的表格
 WHERE # IS NULL, IN, NOT IN,
 GROUP BY
+#横向加工
 HAVING ON
-ORDER BY #降序DESC, 升序ASC
+ORDER BY #降序DESC, 升序ASC,最后的升降排序
+#纵向加工
 ```
 
  
