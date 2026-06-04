@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Face-Comparison-System-V2
-description: 基于MTCNN网络和Flask框架的手写数字识别系统
+description: 基于MTCNN网络和Flask框架的人脸比对系统
 categories: System
 tags: [System]
 ---
